@@ -35,7 +35,7 @@
 
 ---
 
-## 🌸 A Little About Me
+## 🌿 A Little About Me
 
 - I enjoy cooking 🍳 it teaches me how the right ingredients, methods, and creativity combine for a delicious result.
 * I love flowers 🌸 they show me how structure and softness can coexist beautifully.
@@ -45,6 +45,9 @@
 
 ## 📫 Connect with Me
 
+<a href="mailto:phanngockhue10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-phanngockhue10%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/ngoc-khue-phan/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
