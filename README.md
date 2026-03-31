@@ -40,7 +40,7 @@
 
 ## 🌿 A Little About Me
 
-- I enjoy cooking 🍳 it teaches me how the right ingredients, methods, and creativity combine for a delicious result.
+- I enjoy cooking 🍳 it teaches me how the right ingredients, methods, and creativity combine for a good result.
 * I love flowers 🌸 they show me how structure and softness can coexist beautifully.
 
 ---
