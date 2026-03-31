@@ -33,6 +33,9 @@
 - **Visualization**
 `Power BI` `Tableau`
 
+- **Soft Skills**  
+`Active Listening` `Open-minded Thinking` `Continuous Learning` `Adaptability`
+
 ---
 
 ## 🌿 A Little About Me
