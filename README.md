@@ -1,30 +1,60 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Khue+Phan;A+Data+Enthusiast+📊;Welcome+to+my+GitHub!&center=true&size=30" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00008B&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khue+Phan.;Aspiring+Data+Analyst+%7C+Analytics+Engineer.;Welcome+to+my+Github+!" 
       alt="Typing SVG" 
     />
   </a>
 </p>
 
-<h3 align="center">
-✨ <i>"Curious about the world, and data gives me a lens to explore it deeper."</i> ✨
-</h3>
+<p align="center">
+  <i>"Curious about the world, and data gives me a lens to explore it deeper."</i>
+</p>
 
-- 🌱 I recently graduated with a degree in **Data Science in Business** from **Ho Chi Minh University of Banking**
+---
 
-- 💬 I’m open to discussions about **data analytics, data engineering, and business insights**
+## 👩‍💻 About Me
 
-- 📫 Reach me at: **phanngockhue10@gmail.com**
+- 🎓 Data Science in Business — **Ho Chi Minh University of Banking**
+- 📊 Passionate about **data analytics, data modeling, and data-driven solutions**
+- 🌱 Currently deepening into **Analytics Engineering**
+- 💬 Open to chats about **data, business insights, and tech**
 
-- ⚡ Fun fact: I enjoy cooking, love flowers 🌸, and have a soft spot for all things pink 💗
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🛠 Skills
+
+**Languages & Tools**
+`SQL` `Python` `Excel`
+
+**Data**
+`Data Analysis` `Data Modeling` `ETL`
+
+**Visualization**
+`Power BI` `Tableau`
+
+---
+
+## 🌸 A Little About Me
+
+> 🌸 Flowers remind me that **structure and softness aren't opposites** —  
+> and I bring that same balance to how I work with data.
+
+> 🍳 Cooking taught me: the right ingredients, the right process, and a little creativity.
+
+---
+
+## 🚀 Projects
+
+You can explore my projects below.
+
+---
+
+## 📫 Connect with Me
+
 <a href="https://www.linkedin.com/in/ngoc-khue-phan/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/u/phanngockhue10/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
-</p>
