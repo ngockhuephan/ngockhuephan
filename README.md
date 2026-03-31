@@ -24,13 +24,13 @@
 
 ## 🛠 Skills
 
-**Languages & Tools**
+- **Languages & Tools**
 `SQL` `Python` `Excel`
 
-**Data**
+- **Data**
 `Data Analysis` `Data Modeling` `ETL`
 
-**Visualization**
+- **Visualization**
 `Power BI` `Tableau`
 
 ---
