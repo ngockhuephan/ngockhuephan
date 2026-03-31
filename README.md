@@ -37,18 +37,11 @@
 
 ## 🌸 A Little About Me
 
-> 🌸 Flowers remind me that **structure and softness aren't opposites** —  
-> and I bring that same balance to how I work with data.
-
-> 🍳 Cooking taught me: the right ingredients, the right process, and a little creativity.
+- I enjoy cooking 🍳 it teaches me how the right ingredients, methods, and creativity combine for a delicious result.
+* I love flowers 🌸 they show me how structure and softness can coexist beautifully.
 
 ---
 
-## 🚀 Projects
-
-You can explore my projects below.
-
----
 
 ## 📫 Connect with Me
 
