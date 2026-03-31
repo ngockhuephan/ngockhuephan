@@ -15,10 +15,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Data Science in Business — **Ho Chi Minh University of Banking**
-- 📊 Passionate about **data analytics, data modeling, and data-driven solutions**
-- 🌱 Currently deepening into **Analytics Engineering**
-- 💬 Open to chats about **data, business insights, and tech**
+- 🎓 Graduated with a degree in **Data Science in Business** from **Ho Chi Minh University of Banking**
+- 📊 Interested in **data analytics, data modeling, and delivering data-driven solutions**
+- 🌱 Currently developing skills in **Analytics Engineering**
+- 💬 Open to opportunities and discussions related to **data and business insights**
 
 ---
 
