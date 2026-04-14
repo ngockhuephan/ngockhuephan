@@ -31,7 +31,7 @@
 `Data Analysis` `Data Modeling` `ETL`
 
 - **Visualization**
-`Power BI` `Tableau` `Looker Studio`
+`Power BI` `Tableau` `Looker Studio` `Apache Superset`
 
 - **Soft Skills**  
 `Active Listening` `Open-minded Thinking` `Continuous Learning` `Adaptability`
