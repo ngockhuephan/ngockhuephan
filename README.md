@@ -6,7 +6,6 @@
 <em>
 🎓 Data Science in Business @ Ho Chi Minh University of Banking <br/>
 📊 Aspiring Data Analyst | Analytics Engineer <br/>
-💡 Turning data into meaningful insights
 </em>
 </p>
 
