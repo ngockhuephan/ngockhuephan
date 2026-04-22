@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Graduated with major **Data Science in Business** at **Ho Chi Minh University of Banking**
+- 🎓 Bachelor’s degree with a specialization in **Data Science in Business**, **Ho Chi Minh University of Banking**.
 - 📊 Interested in **data analytics, data modeling, and delivering data-driven solutions**
 - 🌱 Currently developing skills in **Analytics Engineering**
 - 💬 Open to opportunities and discussions related to **data and business insights**
