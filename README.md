@@ -8,7 +8,7 @@
 <em>
 🎓 Data Science in Business @ Ho Chi Minh University of Banking <br/>
 🌟 Aspiring Data Analyst | Analytics Engineer <br/>
-🤝 Feel free to explore my projects or reach out for collaboration — always happy to connect!
+🤝 Feel free to explore my projects or reach out for collaboration — I always happy to connect!
 </em>
 </p>
 
