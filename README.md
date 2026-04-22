@@ -23,9 +23,9 @@
 
 khue = {
     "skills": {
-    "languages": ["SQL", "Python"],
-    "tools": ["Excel", "Power BI", "Tableau", "Looker", "Superset"],
-    "data": ["Data Analysis", "Data Modeling", "ETL"]
+    "programming languages": ["SQL", "Python"],
+    "databases": ["MySQL", "MS SQL Server", "Azure SQL"]
+    "data visualization": ["Power BI", "Tableau", "Looker", "Superset"],
      },
 
     "fun_fact": [
