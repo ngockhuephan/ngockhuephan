@@ -24,17 +24,28 @@
 
 ## 🛠 Skills
 
-- **Languages & Tools**
-`SQL` `Python` `Excel`
+### 💻 Languages & Tools
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- **Data**
-`Data Analysis` `Data Modeling` `ETL`
+### 📊 Data
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF9800?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-9C27B0?style=for-the-badge)
 
-- **Visualization**
-`Power BI` `Tableau` `Looker Studio` `Apache Superset`
+### 📈 Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Superset](https://img.shields.io/badge/Superset-000000?style=for-the-badge)
 
-- **Soft Skills**  
-`Active Listening` `Open-minded Thinking` `Continuous Learning` `Adaptability`
+### 🤝 Soft Skills
+
+![Active Listening](https://img.shields.io/badge/Active%20Listening-4CAF50?style=for-the-badge)
+![Open-minded Thinking](https://img.shields.io/badge/Open--minded%20Thinking-2196F3?style=for-the-badge)
+![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-FF9800?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-9C27B0?style=for-the-badge)
 
 ---
 
